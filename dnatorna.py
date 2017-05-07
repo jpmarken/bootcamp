@@ -1,5 +1,6 @@
 """
 Convert DNA sequences to RNA.
+The capitalization of the string will be conserved.
 """
 
 def rna(seq):
